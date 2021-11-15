@@ -1,2 +1,2 @@
-# KVIKOptimizer
-KVIK Optimizer for ReaxFF
+# KVIKOptimiser
+KVIK Optimiser for ReaxFF
